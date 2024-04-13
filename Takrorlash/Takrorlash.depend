@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1712982634 source:d:\codeblockapps\foundation1\takrorlash\main.cpp
+	<iostream>
+	<list>
+	<stdexcept>
+
